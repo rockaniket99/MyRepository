@@ -1,1 +1,1 @@
-print('Hack')
+print('Hacktober')
